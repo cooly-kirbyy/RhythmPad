@@ -2,7 +2,7 @@
 
 ![rhythmpad](https://imgur.com/a/bP9TW7X)
 
-A 10-key SEEED XIAO RP2040 macropad, originally oriented for the usage of Pulsus (one of my favorite 9-key rhythm games) and 4-key rhythm games (such as FNF). This macropad additonally has an EC11E rotary encoder (with switch!) and 128x32 0.91 OLED display. Pressing in the encoder switches to an alt layer to allow for usage outside of rhythm games. On the base layer, the rotary controls volume. 
+A 10-key SEEED XIAO RP2040 macropad, originally oriented for the usage of Pulsus (one of my favorite 9-key rhythm games) and 4-key rhythm games (such as FNF). This macropad additionally has an EC11E rotary encoder (with switch!) and a 128x32 0.91 OLED display. Pressing the encoder switches to an alt layer to allow for usage outside of rhythm games. On the base layer, the rotary controls volume. 
 
 * Keyboard Maintainer: [Juda Ramsey](https://github.com/cooly-kirbyy)
 * Hardware Supported: rhythmpad PCB, XIAO RP2040
