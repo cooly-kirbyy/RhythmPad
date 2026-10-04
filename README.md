@@ -21,17 +21,37 @@ The PCB was designed in EasyEDA Standard. All the symbols and footprints were so
 ![pcb layout](assets/pcb.png)
 ![pcb 2d view](assets/pcb2d.png)
 
-# Model
+## Model
 The CAD model was created in Onshape! It uses a sandwich mounting style, featuring a bottom frame, plate, and top frame.
 It uses 4 M3x16mm screws, inserted from the top into the M3x5mmx4mm heatset inserts in the bottom frame. 
-Additionally, the rotary knob was made by Kea Workshop! I simply added my own design of Saturn on top. Their model can be found here: [Click here to visit the printables page](https://www.printables.com/model/1000044-ec11-encoder-knob)
+Additionally, the rotary knob was made by Kea Workshop! I simply added my own design of Saturn on top. Their model can be found here: [Click here to visit the printables page!](https://www.printables.com/model/1000044-ec11-encoder-knob)
 
 ![bottom case](assets/bottom-case.png)
 ![the plate](assets/plate-case.png)
 ![the top bezel](assets/top-case.png)
+![all together now](assets/top-view-case.png)
 
+## Firmware
+As mentioned, this macropad uses QMK. While not programmed in currently, it is set to use 2 layers to allow for functions outside of being a controller for rhythm games. The OLED display will show what layer you are on. You press the rotary encoder to switch layers, and turning the rotary adjusts volume. 
 
+## Bill of Materials:
+  - 10x MX Mechanical Switches
+  - 10x DSA Keycaps
+  - 11x Through-Hole 1N4148 Diodes
+  - 1x EC11E Rotary Encoder
+  - 1x Seeed XIAO RP2040
+  - 1x 0.91 in OLED Display
+  - 4x M3x16mm Screws
+  - 4x M3x5mmx4mm Heatset Inserts
+  - Custom PCB 
+  - Custom 3d Printed Case (top, bottom, plate)
+  - Custom Rotary Encoder Knob 
 
+## Extra:
+Honestly, this was my first experience with anything hardware-related. I didn't know how to use CAD software or PCB design and was SO overwhelmed. However, it was such a great learning experience, and I've even started to CAD consistently. I can truly only thank Hack Club and Stardance for the awesome opportunity :) 
+PS: Until I have my hardware, I am unsure whether QMK will properly flash. Just keep that in mind. 
+
+Thanks for reading! 
 
 
 
