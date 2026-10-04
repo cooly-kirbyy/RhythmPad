@@ -7,7 +7,7 @@ I mainly made this to get out of my comfort zone and dabble in hardware! Additio
 ![overall look at the rhythmpad](assets/entire-case-w-switches-encoder.png)
 
 ## Features:
-  - 132x28 0.91-inch OLED display
+  - 128x32 0.91-inch OLED display
   - 1x EC11E Rotary Encoder
   - 10x MX-Style Switches w/ DSA Keycaps
   - Seeed XIAO RP2040
