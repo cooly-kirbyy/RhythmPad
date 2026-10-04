@@ -6,7 +6,7 @@ A 10-key SEEED XIAO RP2040 macropad, originally oriented for the usage of Pulsus
 
 * Keyboard Maintainer: [Juda Ramsey](https://github.com/cooly-kirbyy)
 * Hardware Supported: rhythmpad PCB, XIAO RP2040
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Availability: [Click here to find the MCU I used](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)
 
 Make example for this keyboard (after setting up your build environment):
 
