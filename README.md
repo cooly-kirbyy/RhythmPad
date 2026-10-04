@@ -2,7 +2,7 @@
 The RhythmPad is a 10-key macropad sponsored by Hack Club, powered by a Seeed XIAO RP2040! Additionally, it features 1  rotary encoder(with switch) and a 0.91 OLED screen. While colors are inspired by NASA's SLS rocket, it's meant for rhythm games such as Pulsus and 4-key rhythm games (like FNF). 
 It supports 2 layers and uses QMK firmware. 
 
-I mainly made this to get out of my comfort zone and dabble in hardware! Additionally, I love rhythm games and found I prefer mechanical switches when playing over my laptop's keys. This allows to me to plug and play whenever I want :)
+I mainly made this to get out of my comfort zone and dabble in hardware! Additionally, I love rhythm games and found I prefer mechanical switches when playing over my laptop's keys. This allows me to plug and play whenever I want :)
 
 ![overall look at the rhythmpad](assets/entire-case-w-switches-encoder.png)
 
@@ -14,7 +14,7 @@ I mainly made this to get out of my comfort zone and dabble in hardware! Additio
   - QMK Software
 
 ## PCB
-The PCB was designed in EasyEDA Standard. All the symbols and footprints were sourced from the User-Contributed Library.
+The PCB was designed in EasyEDA Standard. All the symbols and footprints (except the diodes) were sourced from the User-Contributed Library.
 ### Schematics: 
 ![schematic](assets/schematic.png)
 ### PCB Layout:
